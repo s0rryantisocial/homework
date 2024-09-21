@@ -1,4 +1,5 @@
 name =  input('Присвойте значение:')
+print(name.__len__())
 print(name.upper())
 print(name.lower())
 print(name.replace(' ', ''))
